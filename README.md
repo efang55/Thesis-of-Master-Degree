@@ -1,9 +1,9 @@
 Thesis of Master Degree
 =
-# Thesis topic：
+## Thesis topic：
 中文名稱：以泛函資料分析及計量模型探討各產業指數之期間結構與效率性</br></br>
-English topic: Researching the Term Structure and Efficiency of Each Industry Index by Functional Data Analysis and Quantitative Model</br>
--
+English title: Researching the Term Structure and Efficiency of Each Industry Index by Functional Data Analysis and Quantitative Model</br>
+
 ### Author：
 Researcher: Chang, Yi-Fang</br>
 Academic advisor: Dr. Jen-Jsung Huang
